@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AllProducts</title>
+</head>
+<body>
+    {{range .ProductsData}}
+
+    <ul>
+        <li>Product Name {{.ProductName}}</li>
+        <li>Product Code {{.ProductCode}}</li>
+        <li>ProductId {{.ProductId}}</li>
+        <li>ProductBuyPrice {{.ProductBuyPrice}}</li>
+        <li>ProductSellPrice {{.ProductSellPrice}}</li>
+        <li>Product Production Firm {{.ProductProductionFirm}} </li>
+        <li>Product Description {{.ProductDescription}}</li>
+    </ul>
+
+    {{end}}
+    
+</body>
+</html>

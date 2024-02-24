@@ -1,0 +1,40 @@
+{
+    "Products":[
+        {
+            "ProductName":"Fairy Tablet 500 ml",
+            "ProductCode":"Fairy500",
+            "ProductId":"f514",
+            "ProductBuyPrice":37.68,
+            "ProductSellPrice":49.75,
+            "ProductProductionFirm":"Unilever",
+            "ProductDescription":"Çözücü Bulaşık Deterjanı"
+        },
+        {
+            "ProductName":"Desni Su 0.5l",
+            "ProductCode":"Desni05",
+            "ProductId":"d318",
+            "ProductBuyPrice":3.12,
+            "ProductSellPrice":6.50,
+            "ProductProductionFirm":"Desni Su Erzurum Palandöken A.ş",
+            "ProductDescription":"İçme Suyu Kapalı Tüketilebilir"
+        },
+        {
+            "ProductName":"Gripin Kaşe 50mg",
+            "ProductCode":"Gripin",
+            "ProductId":"g1784",
+            "ProductBuyPrice":12.00,
+            "ProductSellPrice":18.00,
+            "ProductProductionFirm":"Selçuk Ecza deposu A.ş",
+            "ProductDescription":"Kaşe Ağrı Kesici İlaç"
+        },
+        {
+            "ProductName":"Çaykur Filiz Çay 1Kg",
+            "ProductCode":"ÇaykurFiliz",
+            "ProductId":"c1784",
+            "ProductBuyPrice":156.84,
+            "ProductSellPrice":189.50,
+            "ProductProductionFirm":"Rize Çaykur Üretim Tesisleri A.ş",
+            "ProductDescription":"Tüketilebilir Kurutlulmuş Çay"
+        }
+    ]
+}
